@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="bt_save">Guardar</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_telephone">Telephone</string>
+    <string name="selected_name"></string>
+    <string name="selected_telephone"></string>
+</resources>
